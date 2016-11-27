@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Football Scorekeeper</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="point_after_touchdown">PAT</string>
+    <string name="two_point_conversion">Two Point Conversion</string>
+    <string name="safety">Safety</string>
+    <string name="visitors">Visitors</string>
+    <string name="home_team">Home Team</string>
+</resources>
